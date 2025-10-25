@@ -1,5 +1,5 @@
 # Portfolio Experiment
-
+AI EXPERIMENT: This project has been built with GitHub Copilot so that I can test it out.
 A modern developer portfolio built with React.
 
 ## Usage
