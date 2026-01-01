@@ -35,7 +35,7 @@ export default function Portfolio() {
           className="avatar"
         />
         <h1>Eli Evans</h1>
-        <p>Software Developer | Web & Mobile Apps | AI Enthusiast</p>
+        <p>Software Developer | Fullstack Experience</p>
         <div className="hero-links">
           <a href="mailto:eli.evans@example.com">Email</a>
           <a href="https://github.com/eli-evans149">GitHub</a>
