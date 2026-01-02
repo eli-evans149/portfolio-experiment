@@ -51,14 +51,51 @@ export default function Portfolio() {
       </header>
 
       <section className="skills">
-        <h2>Skills</h2>
+        <h2>Skills & Experience</h2>
+
+        <div className="core-tech">
+          <strong>Core technologies:</strong> PHP · HTML · React/TS/JS · MySQL
+        </div>
+
+        <h3>Languages</h3>
         <ul>
-          <li>Full Stack: JavaScript, Python, TypeScript, Node.js, React</li>
-          <li>Cloud & DevOps: AWS, Docker, CI/CD</li>
-          <li>Mobile: Flutter, React Native</li>
-          <li>Data: SQL, NoSQL, REST APIs</li>
-          <li>UI/UX Design</li>
+          <li>PHP</li>
+          <li>React</li>
+          <li>TypeScript</li>
+          <li>HTML</li>
+          <li>JavaScript</li>
+          <li>MySQL</li>
+          <li>Java</li>
+          <li>C</li>
+          <li>Python</li>
+          <li>C++</li>
+          <li>R</li>
+          <li>Node.js</li>
         </ul>
+
+        <h3>Skills</h3>
+        <ul>
+          <li>Identifying root causes and resolving customer-reported issues</li>
+          <li>Improving performance</li>
+          <li>Developing new products from specifications</li>
+          <li>Identifying, planning, and completing maintenance tasks</li>
+          <li>Documenting product behavior and technical details</li>
+        </ul>
+
+        <h3>Tools</h3>
+        <ul>
+          <li>GitLab, GitHub, git</li>
+          <li>Jira, Confluence</li>
+          <li>Swagger, Splunk</li>
+        </ul>
+
+        <h3>Job Experience</h3>
+        <div className="experience">
+          <p>Created an automated workflow to reduce decision making of an internal team by approximately 50%. Worked directly with users to understand their manual workflow, then designed, implemented, and tracked the automation.</p>
+          <p>Developed new features, maintenance improvements, and bug fixes on pages critical for processing payroll. Collaborated with technical support, design, QA, project management, and leadership to deliver strong end-user experiences.</p>
+          <p>Worked on backend pages in PHP/HTML/JavaScript in legacy and MVC architectures connected to MySQL databases, and modernized frontend pages with React/TypeScript and RESTful API endpoints. Integrated with internal and external APIs such as Atlassian’s JIRA API.</p>
+          <p>Completed mission-critical new development and mentored interns and new hires. Managed workload independently to maintain team delivery during coverage periods.</p>
+        </div>
       </section>
 
       <section className="projects">
