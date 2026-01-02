@@ -44,9 +44,9 @@ export default function Portfolio() {
         <h1>Eli Evans</h1>
         <p>Software Developer | Fullstack Experience</p>
         <div className="hero-links">
-          <a href="mailto:eli.evans@example.com">Email</a>
+          <a href="mailto:eli-martin149@gmail.com">Email</a>
           <a href="https://github.com/eli-evans149">GitHub</a>
-          <a href="https://linkedin.com/in/eli-evans149">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/eli-martin414/">LinkedIn</a>
         </div>
       </header>
 
