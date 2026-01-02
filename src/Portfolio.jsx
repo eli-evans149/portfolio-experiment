@@ -3,25 +3,32 @@ import "./Portfolio.css"; // See the CSS file below
 
 const projects = [
   {
-    title: "Demo Project",
-    description: "A web application for tracking productivity. Users can log tasks, set goals, and visualize progress.",
-    tech: "React, Node.js, MongoDB",
-    image: "https://raw.githubusercontent.com/eli-evans149/demo-project/master/preview.png",
-    link: "https://github.com/eli-evans149/demo-project",
+    title: "Weather Displayer",
+    description: "Search for a location by postcode and view the current weather report.",
+    tech: "PHP — Uses the AccuWeather API",
+    image: "",
+    link: "https://github.com/eli-evans149/weather-displayer",
   },
   {
-    title: "Chatbot App",
-    description: "An AI-powered chatbot for customer support, featuring real-time communication and sentiment analysis.",
-    tech: "Python, Flask, TensorFlow",
-    image: "https://raw.githubusercontent.com/eli-evans149/chatbot-app/main/screenshot.png",
-    link: "https://github.com/eli-evans149/chatbot-app",
+    title: "Quote Displayer",
+    description: "Generates a random quote and displays it to the user (MVC pattern).",
+    tech: "PHP (MVC)",
+    image: "",
+    link: "https://github.com/eli-evans149/quote-displayer",
   },
   {
-    title: "Weather Mobile",
-    description: "Mobile weather app that delivers real-time forecasts and beautiful graphics.",
-    tech: "Flutter, Dart, OpenWeather API",
-    image: "https://raw.githubusercontent.com/eli-evans149/weather-mobile/main/app-preview.png",
-    link: "https://github.com/eli-evans149/weather-mobile",
+    title: "Random Idea Generator",
+    description: "Generates programming project ideas for inspiration.",
+    tech: "Java",
+    image: "",
+    link: "https://github.com/eli-evans149/random-idea-generator",
+  },
+  {
+    title: "Portfolio Website",
+    description: "Alternate portfolio site — catalogs projects and documents progress over time.",
+    tech: "HTML, CSS, TypeScript",
+    image: "",
+    link: "https://github.com/eli-evans149/portfolio-experiment",
   },
 ];
 
