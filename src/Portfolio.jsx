@@ -6,7 +6,7 @@ const projects = [
     title: "Weather Displayer",
     description: "Search for a location by postcode and view the current weather report.",
     tech: "PHP — Uses the AccuWeather API",
-    image: "",
+    image: "17partlysunnytshow.webp",
     link: "https://github.com/eli-evans149/weather-displayer",
   },
   {
