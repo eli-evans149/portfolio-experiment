@@ -37,8 +37,8 @@ export default function Portfolio() {
     <div className="portfolio">
       <header className="hero">
         <img
-          src="https://avatars.githubusercontent.com/u/14357612?v=4"
-          alt="Eli Evans"
+          src={`${import.meta.env.BASE_URL}avataaars.png`}
+          alt="Eli Evans Avatar"
           className="avatar"
         />
         <h1>Eli Evans</h1>
